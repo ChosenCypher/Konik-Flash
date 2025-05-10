@@ -1,7 +1,6 @@
 const config = {
   manifests: {
-    release: 'https://raw.githubusercontent.com/hoofpilot/hoofpilot/refs/heads/hoofpilot-release3/system/hardware/tici/agnos.json',
-    master: 'https://raw.githubusercontent.com/commaai/openpilot/master/system/hardware/tici/agnos.json',
+    release: 'https://r2.openpilot.my.id/agnosupdate/11.13/agnos.json',
   },
   loader: {
     url: 'https://raw.githubusercontent.com/commaai/flash/master/src/QDL/programmer.bin',
